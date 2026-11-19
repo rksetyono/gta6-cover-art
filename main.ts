@@ -7,6 +7,10 @@
 // are free to use. Build your own GTA-style cover maker in its place, put your 3 or 4 PNG or JPEG screenshots in
 // screenshots/ (the first by name is the cover) and run it.
 //
+// Built by the recorded agent session: Neon Bay Cover Studio replaces Cover Snap —
+// a six-layout, five-grade, multi-photo cover maker (app/src/cover.js) with drag-to-crop,
+// undo/redo and PNG export in 1080×1080, 1080×1350 and 1920×1080. The plumbing below
+// (copy app/ + screenshots/, write dossier.json) is unchanged from the kit's starter.
 // Serve it locally with `node serve.ts`, then open http://localhost:8080.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts

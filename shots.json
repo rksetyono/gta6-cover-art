@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&photo=pier&title=Sunset%20Heist&subtitle=Neon%20Bay%20Nights&layout=hero3&grade=sunset&size=wide&zoom=1,0.6,1,0.6&oy=0.12,0.1,0.15,0.1","w":1280},{"h":800,"name":"2-editor.jpg","query":"?shot=editor&photo=pier&title=Sunset%20Heist&subtitle=Neon%20Bay%20Nights&layout=hero3&grade=sunset&size=square&zoom=1,0.6,1,0.6&oy=0.12,0.1,0.15,0.1","w":1280},{"h":1280,"name":"3-cover.jpg","query":"?shot=cover&photo=boulevard&title=Boulevard%20Queen&subtitle=Chasing%20the%20Last%20Light&layout=snapshots&grade=neon&size=portrait&zoom=1,1,1&oy=0.05,0.05,0.05","w":1024},{"h":1024,"name":"4-cover.jpg","query":"?shot=cover&photo=pier&title=Pier%20Pressure&subtitle=Golden%20Hour%20Club&layout=mosaic9&grade=gold&size=square&zoom=0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7&oy=0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05","w":1024}]
